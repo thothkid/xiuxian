@@ -1,0 +1,24 @@
+{{~
+    comment = __enum.comment
+    items = __enum.items
+~}}
+
+
+{{namespace_with_grace_begin __namespace_with_top_module}}
+{{~if comment != '' ~}}
+/**
+ * {{escape_comment comment}}
+ */
+{{~end~}}
+export enum {{__name}} {
+    {{~for item in items ~}}
+{{~if item.comment != '' ~}}
+    /**
+     * {{escape_comment item.comment}}
+     */
+{{~end~}}
+    {{item.name}} = {{item.value}},
+    {{~end~}}
+}
+
+{{namespace_with_grace_end __namespace_with_top_module}}

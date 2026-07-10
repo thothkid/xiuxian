@@ -1,0 +1,15 @@
+{{~if __enum.comment != '' ~}}
+/**
+ * {{__enum.comment | html.escape}}
+ */
+{{~end~}}
+export enum {{__name}} {
+    {{~for item in __enum.items ~}}
+{{~if item.comment != '' ~}}
+    /**
+     * {{escape_comment item.comment}}
+     */
+{{~end~}}
+    {{item.name}} = {{item.value}},
+    {{~end~}}
+}
