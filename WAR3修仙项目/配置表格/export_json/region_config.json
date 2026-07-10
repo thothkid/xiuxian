@@ -1,0 +1,47 @@
+[
+  {
+    "config_id": 70015106,
+    "rect_name": "银杏渔村-怪物1",
+    "scene_name": "1N5_1_6",
+    "scene_id": 1,
+    "is_main_rect": 0,
+    "is_born_rect": 0,
+    "teleport_target": 0
+  },
+  {
+    "config_id": 70015105,
+    "rect_name": "银杏渔村-怪物2",
+    "scene_name": "1N5_1_5",
+    "scene_id": 1,
+    "is_main_rect": 0,
+    "is_born_rect": 0,
+    "teleport_target": 0
+  },
+  {
+    "config_id": 70015104,
+    "rect_name": "银杏渔村-怪物3",
+    "scene_name": "1N5_1_4",
+    "scene_id": 1,
+    "is_main_rect": 0,
+    "is_born_rect": 0,
+    "teleport_target": 0
+  },
+  {
+    "config_id": 70015103,
+    "rect_name": "银杏渔村-怪物4",
+    "scene_name": "1N5_1_3",
+    "scene_id": 1,
+    "is_main_rect": 0,
+    "is_born_rect": 0,
+    "teleport_target": 0
+  },
+  {
+    "config_id": 70015102,
+    "rect_name": "银杏渔村-怪物5",
+    "scene_name": "1N5_1_2",
+    "scene_id": 1,
+    "is_main_rect": 0,
+    "is_born_rect": 0,
+    "teleport_target": 0
+  }
+]

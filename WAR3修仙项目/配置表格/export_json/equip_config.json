@@ -1,0 +1,355 @@
+[
+  {
+    "id": 50000100,
+    "name": "木剑",
+    "dur_t": 180,
+    "required_level": 1,
+    "show_level": 1,
+    "equip_part": 3,
+    "quality": 1,
+    "cultivation_tag": "无",
+    "suit_id": 0,
+    "illustrated_id": 99,
+    "durability": 5,
+    "model_id": "",
+    "textures_id": "",
+    "ground_mx": "",
+    "icon_id": "",
+    "model_icon": "",
+    "model_icon_num": 0,
+    "model_icon_x": "",
+    "model_icon_y": "",
+    "model_icon_z": "",
+    "light_eff": "",
+    "bag_class": "装备",
+    "main_class": "大类_基础装备",
+    "sub_class": "小类_A新手",
+    "drop_level": "白色",
+    "level": 1,
+    "bind_type": "默认",
+    "is_store": true,
+    "is_destroy": false,
+    "random_type": "无",
+    "attrs": [
+      {
+        "key": 4,
+        "value": 1
+      }
+    ],
+    "skills": [],
+    "hidden_attribute": 50000100,
+    "latent_skill": "",
+    "reinforcement_id": 50000100,
+    "hidden_affix": 1,
+    "luck_value": 0,
+    "sell_price": 1000,
+    "sell_price_id": 1000001,
+    "rec_price": 1000,
+    "rec_price_id": 1000001,
+    "rec_materials": [
+      {
+        "id": 34040015,
+        "count": 1
+      }
+    ],
+    "des_price": 1000,
+    "des_price_id": 1000001,
+    "des_materials": [
+      {
+        "id": 34040002,
+        "count": 1
+      }
+    ],
+    "border": "",
+    "border1": "",
+    "tags": [
+      "装备",
+      "新手级"
+    ],
+    "desc": "村口铁匠削给少年的第一把剑，刃口很钝，却陪他走出了比奇。"
+  },
+  {
+    "id": 50000101,
+    "name": "乌木剑",
+    "dur_t": 180,
+    "required_level": 1,
+    "show_level": 1,
+    "equip_part": 3,
+    "quality": 1,
+    "cultivation_tag": "无",
+    "suit_id": 0,
+    "illustrated_id": 99,
+    "durability": 5,
+    "model_id": "",
+    "textures_id": "",
+    "ground_mx": "",
+    "icon_id": "",
+    "model_icon": "",
+    "model_icon_num": 0,
+    "model_icon_x": "",
+    "model_icon_y": "",
+    "model_icon_z": "",
+    "light_eff": "",
+    "bag_class": "装备",
+    "main_class": "大类_基础装备",
+    "sub_class": "小类_A新手",
+    "drop_level": "白色",
+    "level": 1,
+    "bind_type": "默认",
+    "is_store": true,
+    "is_destroy": false,
+    "random_type": "无",
+    "attrs": [
+      {
+        "key": 4,
+        "value": 1
+      }
+    ],
+    "skills": [],
+    "hidden_attribute": 50000101,
+    "latent_skill": "",
+    "reinforcement_id": 50000101,
+    "hidden_affix": 1,
+    "luck_value": 0,
+    "sell_price": 1000,
+    "sell_price_id": 1000001,
+    "rec_price": 1000,
+    "rec_price_id": 1000001,
+    "rec_materials": [
+      {
+        "id": 34040015,
+        "count": 1
+      }
+    ],
+    "des_price": 1000,
+    "des_price_id": 1000001,
+    "des_materials": [
+      {
+        "id": 34040002,
+        "count": 1
+      }
+    ],
+    "border": "",
+    "border1": "",
+    "tags": [
+      "装备",
+      "新手级"
+    ],
+    "desc": "乌木沉黑如夜，许多法师第一次点燃火球时，手里握的就是它。"
+  },
+  {
+    "id": 50000102,
+    "name": "鹤嘴锄",
+    "dur_t": 180,
+    "required_level": 5,
+    "show_level": 1,
+    "equip_part": 3,
+    "quality": 1,
+    "cultivation_tag": "丹修",
+    "suit_id": 0,
+    "illustrated_id": 99,
+    "durability": 6,
+    "model_id": "",
+    "textures_id": "",
+    "ground_mx": "",
+    "icon_id": "",
+    "model_icon": "",
+    "model_icon_num": 0,
+    "model_icon_x": "",
+    "model_icon_y": "",
+    "model_icon_z": "",
+    "light_eff": "",
+    "bag_class": "装备",
+    "main_class": "大类_基础装备",
+    "sub_class": "小类_A新手",
+    "drop_level": "白色",
+    "level": 1,
+    "bind_type": "默认",
+    "is_store": true,
+    "is_destroy": false,
+    "random_type": "无",
+    "attrs": [
+      {
+        "key": 4,
+        "value": 2
+      },
+      {
+        "key": 5,
+        "value": 1
+      }
+    ],
+    "skills": [],
+    "hidden_attribute": 50000102,
+    "latent_skill": "",
+    "reinforcement_id": 50000102,
+    "hidden_affix": 1,
+    "luck_value": 0,
+    "sell_price": 1000,
+    "sell_price_id": 1000001,
+    "rec_price": 1000,
+    "rec_price_id": 1000001,
+    "rec_materials": [
+      {
+        "id": 34040015,
+        "count": 1
+      }
+    ],
+    "des_price": 1000,
+    "des_price_id": 1000001,
+    "des_materials": [
+      {
+        "id": 34040002,
+        "count": 1
+      }
+    ],
+    "border": "",
+    "border1": "",
+    "tags": [
+      "装备",
+      "新手级"
+    ],
+    "desc": "矿洞老道士留下的旧锄，敲开过黑铁，也敲醒过藏在石缝里的怨魂。"
+  },
+  {
+    "id": 50000103,
+    "name": "矿铲",
+    "dur_t": 180,
+    "required_level": 1,
+    "show_level": 1,
+    "equip_part": 3,
+    "quality": 1,
+    "cultivation_tag": "无",
+    "suit_id": 0,
+    "illustrated_id": 99,
+    "durability": 5,
+    "model_id": "",
+    "textures_id": "",
+    "ground_mx": "",
+    "icon_id": "",
+    "model_icon": "",
+    "model_icon_num": 0,
+    "model_icon_x": "",
+    "model_icon_y": "",
+    "model_icon_z": "",
+    "light_eff": "",
+    "bag_class": "装备",
+    "main_class": "大类_基础装备",
+    "sub_class": "小类_A新手",
+    "drop_level": "白色",
+    "level": 1,
+    "bind_type": "默认",
+    "is_store": true,
+    "is_destroy": false,
+    "random_type": "无",
+    "attrs": [
+      {
+        "key": 4,
+        "value": 1
+      }
+    ],
+    "skills": [],
+    "hidden_attribute": 50000103,
+    "latent_skill": "",
+    "reinforcement_id": 50000103,
+    "hidden_affix": 1,
+    "luck_value": 0,
+    "sell_price": 1000,
+    "sell_price_id": 1000001,
+    "rec_price": 1000,
+    "rec_price_id": 1000001,
+    "rec_materials": [
+      {
+        "id": 34040015,
+        "count": 1
+      }
+    ],
+    "des_price": 1000,
+    "des_price_id": 1000001,
+    "des_materials": [
+      {
+        "id": 34040002,
+        "count": 1
+      }
+    ],
+    "border": "",
+    "border1": "",
+    "tags": [
+      "装备",
+      "新手级"
+    ],
+    "desc": "矿工背井离乡时带走的铲子，挖过矿，也在夜里挡过狼牙。"
+  },
+  {
+    "id": 50000104,
+    "name": "青铜剑",
+    "dur_t": 180,
+    "required_level": 5,
+    "show_level": 1,
+    "equip_part": 3,
+    "quality": 1,
+    "cultivation_tag": "法修",
+    "suit_id": 0,
+    "illustrated_id": 99,
+    "durability": 6,
+    "model_id": "",
+    "textures_id": "",
+    "ground_mx": "",
+    "icon_id": "",
+    "model_icon": "",
+    "model_icon_num": 0,
+    "model_icon_x": "",
+    "model_icon_y": "",
+    "model_icon_z": "",
+    "light_eff": "",
+    "bag_class": "装备",
+    "main_class": "大类_基础装备",
+    "sub_class": "小类_A新手",
+    "drop_level": "白色",
+    "level": 1,
+    "bind_type": "默认",
+    "is_store": true,
+    "is_destroy": false,
+    "random_type": "无",
+    "attrs": [
+      {
+        "key": 4,
+        "value": 2
+      },
+      {
+        "key": 5,
+        "value": 1
+      }
+    ],
+    "skills": [],
+    "hidden_attribute": 50000104,
+    "latent_skill": "",
+    "reinforcement_id": 50000104,
+    "hidden_affix": 1,
+    "luck_value": 0,
+    "sell_price": 1000,
+    "sell_price_id": 1000001,
+    "rec_price": 1000,
+    "rec_price_id": 1000001,
+    "rec_materials": [
+      {
+        "id": 34040015,
+        "count": 1
+      }
+    ],
+    "des_price": 1000,
+    "des_price_id": 1000001,
+    "des_materials": [
+      {
+        "id": 34040002,
+        "count": 1
+      }
+    ],
+    "border": "",
+    "border1": "",
+    "tags": [
+      "装备",
+      "新手级"
+    ],
+    "desc": "剑身青锈未尽，据说曾被一个学徒藏在袍下，逃过半兽人追杀。"
+  }
+]

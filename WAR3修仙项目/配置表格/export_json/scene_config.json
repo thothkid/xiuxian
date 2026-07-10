@@ -1,0 +1,11 @@
+[
+  {
+    "config_id": 1,
+    "scene_name": "宗门",
+    "camera_distance": 900,
+    "camera_angle": 315,
+    "minimap": "mini_zm",
+    "bigmap": "big_zm",
+    "grade": 0
+  }
+]

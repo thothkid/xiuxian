@@ -1,0 +1,4642 @@
+[
+  {
+    "suit_id": 1,
+    "name": "祈祷套",
+    "suits": [
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      },
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 2,
+    "name": "记忆套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      },
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 3,
+    "name": "齿虎套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 4,
+    "name": "魔力套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 5,
+    "name": "天珠套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 6,
+    "name": "幽灵套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 7,
+    "name": "思贝套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 8,
+    "name": "三眼套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 9,
+    "name": "修罗套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 10,
+    "name": "魔杖套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 11,
+    "name": "银蛇套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 12,
+    "name": "奔雷勋章套（战）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 20
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+20  |n        攻击上限：+8"
+      },
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 13,
+    "name": "怒焰勋章套（法）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 10
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+10"
+      },
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 14,
+    "name": "极光勋章套（道）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 5
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+5"
+      },
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 15,
+    "name": "蓝晶套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 6
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+6"
+      }
+    ]
+  },
+  {
+    "suit_id": 16,
+    "name": "黑晶套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 7
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+7"
+      }
+    ]
+  },
+  {
+    "suit_id": 17,
+    "name": "泰坦套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 8
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+8"
+      }
+    ]
+  },
+  {
+    "suit_id": 18,
+    "name": "神秘套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 9
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+9"
+      }
+    ]
+  },
+  {
+    "suit_id": 19,
+    "name": "狂风套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 10
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+10"
+      }
+    ]
+  },
+  {
+    "suit_id": 20,
+    "name": "骑士套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 11
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+11"
+      }
+    ]
+  },
+  {
+    "suit_id": 21,
+    "name": "恶魔套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 12
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+12"
+      }
+    ]
+  },
+  {
+    "suit_id": 22,
+    "name": "灵魂套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 13
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+13"
+      }
+    ]
+  },
+  {
+    "suit_id": 23,
+    "name": "井中月套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 14
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+14"
+      }
+    ]
+  },
+  {
+    "suit_id": 24,
+    "name": "血饮套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 15
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+15"
+      }
+    ]
+  },
+  {
+    "suit_id": 25,
+    "name": "无极棍套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 16
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+16"
+      }
+    ]
+  },
+  {
+    "suit_id": 26,
+    "name": "骷髅勋章套（战）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 17
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+17"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 27,
+    "name": "飞龙勋章套（法）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 18
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+18"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 28,
+    "name": "道术勋章套（道）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 19
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+19"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 29,
+    "name": "玛瑙勋章套（战）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 30,
+    "name": "犀角勋章套（法）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 21
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+21"
+      },
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 31,
+    "name": "极限勋章套（道）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 22
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+22"
+      },
+      {
+        "suit_count": 4,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      }
+    ]
+  },
+  {
+    "suit_id": 32,
+    "name": "雷电勋章套（战）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 23
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+23"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n        烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 33,
+    "name": "焰火勋章套（法）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+24"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n        每杀1怪回复50点HP和MP"
+      }
+    ]
+  },
+  {
+    "suit_id": 34,
+    "name": "冰晶勋章套（道）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 25
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+25"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n        被攻击时10%概率抵挡本次伤害"
+      }
+    ]
+  },
+  {
+    "suit_id": 35,
+    "name": "魔血套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+26"
+      }
+    ]
+  },
+  {
+    "suit_id": 36,
+    "name": "将军勋章套（战）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 27
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+27"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n 释放裂火时10%打出双烈火"
+      }
+    ]
+  },
+  {
+    "suit_id": 37,
+    "name": "祭司勋章套（法）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n  攻击怪物1%概率斩杀30%hp（当"
+      }
+    ]
+  },
+  {
+    "suit_id": 38,
+    "name": "正宗勋章套（道）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 29
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+29"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n  对满血敌人直接打掉10%血"
+      }
+    ]
+  },
+  {
+    "suit_id": 39,
+    "name": "裁决套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 34
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+34"
+      }
+    ]
+  },
+  {
+    "suit_id": 40,
+    "name": "龙牙套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 35
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+35"
+      }
+    ]
+  },
+  {
+    "suit_id": 41,
+    "name": "逍遥套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 36
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+36"
+      }
+    ]
+  },
+  {
+    "suit_id": 42,
+    "name": "战斗勋章套（战）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 27
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+27"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n 攻速+2，习得烈火4级"
+      }
+    ]
+  },
+  {
+    "suit_id": 43,
+    "name": "天降勋章套（法）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 44,
+    "name": "修道勋章套（道）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 29
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+29"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n宝宝伤害+50%，减伤50%；道士伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 45,
+    "name": "圣战勋章套（战）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 27
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+27"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n 攻击时，造成10%额外伤害"
+      }
+    ]
+  },
+  {
+    "suit_id": 46,
+    "name": "法神勋章套（法）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n对异常状态敌人额外造成10%的伤害"
+      }
+    ]
+  },
+  {
+    "suit_id": 47,
+    "name": "天尊勋章套（道）",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 29
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+29"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+20  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 48,
+    "name": "骨玉套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 44
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+44"
+      }
+    ]
+  },
+  {
+    "suit_id": 49,
+    "name": "龙纹套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 45
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+45"
+      }
+    ]
+  },
+  {
+    "suit_id": 50,
+    "name": "怒斩套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 42
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+42"
+      }
+    ]
+  },
+  {
+    "suit_id": 51,
+    "name": "利刃套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 45
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+45"
+      }
+    ]
+  },
+  {
+    "suit_id": 52,
+    "name": "法杖套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 45
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+45"
+      }
+    ]
+  },
+  {
+    "suit_id": 53,
+    "name": "杏木套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 42
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+42"
+      }
+    ]
+  },
+  {
+    "suit_id": 54,
+    "name": "水波套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 45
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+45"
+      }
+    ]
+  },
+  {
+    "suit_id": 55,
+    "name": "红霞套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 42
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+42"
+      }
+    ]
+  },
+  {
+    "suit_id": 56,
+    "name": "刺客套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 45
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+45"
+      }
+    ]
+  },
+  {
+    "suit_id": 57,
+    "name": "道剑套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 42
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+42"
+      }
+    ]
+  },
+  {
+    "suit_id": 58,
+    "name": "春风套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 45
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+45"
+      }
+    ]
+  },
+  {
+    "suit_id": 59,
+    "name": "斩马刀套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 16
+          },
+          {
+            "key": 4,
+            "value": 42
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+16  |n        攻击上限：+42"
+      }
+    ]
+  },
+  {
+    "suit_id": 60,
+    "name": "雷霆战武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      }
+    ]
+  },
+  {
+    "suit_id": 61,
+    "name": "雷霆战1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 22
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+22"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 62,
+    "name": "雷霆战2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 22
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+22"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 63,
+    "name": "雷霆法武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      }
+    ]
+  },
+  {
+    "suit_id": 64,
+    "name": "雷霆法1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 22
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+22"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 65,
+    "name": "雷霆法2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 22
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+22"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 66,
+    "name": "雷霆道武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      }
+    ]
+  },
+  {
+    "suit_id": 67,
+    "name": "雷霆道1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 22
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+22"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 68,
+    "name": "雷霆道2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 25
+          },
+          {
+            "key": 4,
+            "value": 48
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+25  |n        攻击上限：+48"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 100
+          },
+          {
+            "key": 4,
+            "value": 22
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+100  |n        攻击上限：+22"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 69,
+    "name": "战神战武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      }
+    ]
+  },
+  {
+    "suit_id": 70,
+    "name": "战神战1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+26  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 71,
+    "name": "战神战2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+26  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 72,
+    "name": "战神法武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      }
+    ]
+  },
+  {
+    "suit_id": 73,
+    "name": "战神法1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+26  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 74,
+    "name": "战神法2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+26  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 75,
+    "name": "战神道武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      }
+    ]
+  },
+  {
+    "suit_id": 76,
+    "name": "战神道1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+26  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 77,
+    "name": "战神道2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 30
+          },
+          {
+            "key": 4,
+            "value": 50
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+30  |n        攻击上限：+50"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 110
+          },
+          {
+            "key": 4,
+            "value": 24
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+110  |n        攻击上限：+24"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+26  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 78,
+    "name": "星王战武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      }
+    ]
+  },
+  {
+    "suit_id": 79,
+    "name": "星王战1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 115
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+115  |n        攻击上限：+26"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+28  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 80,
+    "name": "星王战2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 115
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+115  |n        攻击上限：+26"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+28  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 81,
+    "name": "星王法武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      }
+    ]
+  },
+  {
+    "suit_id": 82,
+    "name": "星王法1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 115
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+115  |n        攻击上限：+26"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+28  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 83,
+    "name": "星王法2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 115
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+115  |n        攻击上限：+26"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+28  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 84,
+    "name": "星王道武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      }
+    ]
+  },
+  {
+    "suit_id": 85,
+    "name": "星王道1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 115
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+115  |n        攻击上限：+26"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+28  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 86,
+    "name": "星王道2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 35
+          },
+          {
+            "key": 4,
+            "value": 52
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+35  |n        攻击上限：+52"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 115
+          },
+          {
+            "key": 4,
+            "value": 26
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+115  |n        攻击上限：+26"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+28  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 87,
+    "name": "天龙战武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      }
+    ]
+  },
+  {
+    "suit_id": 88,
+    "name": "天龙战1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 140
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+140  |n        攻击上限：+30  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 89,
+    "name": "天龙战2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 140
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+140  |n        攻击上限：+30  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 90,
+    "name": "天龙法武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      }
+    ]
+  },
+  {
+    "suit_id": 91,
+    "name": "天龙法1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 140
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+140  |n        攻击上限：+30  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 92,
+    "name": "天龙法2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 140
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+140  |n        攻击上限：+30  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 93,
+    "name": "天龙道武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      }
+    ]
+  },
+  {
+    "suit_id": 94,
+    "name": "天龙道1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 140
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+140  |n        攻击上限：+30  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 95,
+    "name": "天龙道2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 40
+          },
+          {
+            "key": 4,
+            "value": 54
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+40  |n        攻击上限：+54"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 120
+          },
+          {
+            "key": 4,
+            "value": 28
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+120  |n        攻击上限：+28"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 140
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+140  |n        攻击上限：+30  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 96,
+    "name": "王者战武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      }
+    ]
+  },
+  {
+    "suit_id": 97,
+    "name": "王者战1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 125
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+125  |n        攻击上限：+30"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 150
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+150  |n        攻击上限：+32  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 98,
+    "name": "王者战2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 125
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+125  |n        攻击上限：+30"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 150
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+150  |n        攻击上限：+32  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 99,
+    "name": "王者法武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      }
+    ]
+  },
+  {
+    "suit_id": 100,
+    "name": "王者法1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 125
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+125  |n        攻击上限：+30"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 150
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+150  |n        攻击上限：+32  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 101,
+    "name": "王者法2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 125
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+125  |n        攻击上限：+30"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 150
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+150  |n        攻击上限：+32  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 102,
+    "name": "王者道武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      }
+    ]
+  },
+  {
+    "suit_id": 103,
+    "name": "王者道1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 125
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+125  |n        攻击上限：+30"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 150
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+150  |n        攻击上限：+32  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 104,
+    "name": "王者道2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 45
+          },
+          {
+            "key": 4,
+            "value": 56
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+45  |n        攻击上限：+56"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 125
+          },
+          {
+            "key": 4,
+            "value": 30
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+125  |n        攻击上限：+30"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 150
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+150  |n        攻击上限：+32  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 105,
+    "name": "皓天战武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      }
+    ]
+  },
+  {
+    "suit_id": 106,
+    "name": "皓天战1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+32"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 160
+          },
+          {
+            "key": 4,
+            "value": 34
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+160  |n        攻击上限：+34  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 107,
+    "name": "皓天战2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+32"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 160
+          },
+          {
+            "key": 4,
+            "value": 34
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+160  |n        攻击上限：+34  |n 烈火伤害+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 108,
+    "name": "皓天法武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      }
+    ]
+  },
+  {
+    "suit_id": 109,
+    "name": "皓天法1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+32"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 160
+          },
+          {
+            "key": 4,
+            "value": 34
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+160  |n        攻击上限：+34  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 110,
+    "name": "皓天法2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+32"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 160
+          },
+          {
+            "key": 4,
+            "value": 34
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+160  |n        攻击上限：+34  |n 攻击时10%概率触发雷电术伤害翻倍"
+      }
+    ]
+  },
+  {
+    "suit_id": 111,
+    "name": "皓天道武甲套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      }
+    ]
+  },
+  {
+    "suit_id": 112,
+    "name": "皓天道1",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+32"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 160
+          },
+          {
+            "key": 4,
+            "value": 34
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+160  |n        攻击上限：+34  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 113,
+    "name": "皓天道2",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 50
+          },
+          {
+            "key": 4,
+            "value": 58
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+50  |n        攻击上限：+58"
+      },
+      {
+        "suit_count": 5,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 130
+          },
+          {
+            "key": 4,
+            "value": 32
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+130  |n        攻击上限：+32"
+      },
+      {
+        "suit_count": 7,
+        "attrs": [
+          {
+            "key": 1,
+            "value": 160
+          },
+          {
+            "key": 4,
+            "value": 34
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "生命值：+160  |n        攻击上限：+34  |n 道术+10%.攻击时20%概率打出天尊神符"
+      }
+    ]
+  },
+  {
+    "suit_id": 301,
+    "name": "斗笠盾牌沃玛套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 100
+          },
+          {
+            "key": 29,
+            "value": 100
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+1%|n        HP%：+1%"
+      }
+    ]
+  },
+  {
+    "suit_id": 302,
+    "name": "斗笠盾牌祖玛套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 200
+          },
+          {
+            "key": 29,
+            "value": 200
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+2%|n        HP%：+2%"
+      }
+    ]
+  },
+  {
+    "suit_id": 303,
+    "name": "斗笠盾牌苍月套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 300
+          },
+          {
+            "key": 29,
+            "value": 300
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+3%|n        HP%：+3%"
+      }
+    ]
+  },
+  {
+    "suit_id": 304,
+    "name": "斗笠盾牌赤月套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 400
+          },
+          {
+            "key": 29,
+            "value": 400
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+4%|n        HP%：+4%"
+      }
+    ]
+  },
+  {
+    "suit_id": 305,
+    "name": "斗笠盾牌雷霆套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 500
+          },
+          {
+            "key": 29,
+            "value": 500
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+5%|n        HP%：+5%"
+      }
+    ]
+  },
+  {
+    "suit_id": 306,
+    "name": "斗笠盾牌战神套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 600
+          },
+          {
+            "key": 29,
+            "value": 600
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+6%|n        HP%：+6%"
+      }
+    ]
+  },
+  {
+    "suit_id": 307,
+    "name": "斗笠盾牌星王套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 700
+          },
+          {
+            "key": 29,
+            "value": 700
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+7%|n        HP%：+7%"
+      }
+    ]
+  },
+  {
+    "suit_id": 308,
+    "name": "斗笠盾牌天龙套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 800
+          },
+          {
+            "key": 29,
+            "value": 800
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+8%|n        HP%：+8%"
+      }
+    ]
+  },
+  {
+    "suit_id": 309,
+    "name": "斗笠盾牌王者套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 900
+          },
+          {
+            "key": 29,
+            "value": 900
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+8%|n        HP%：+9%"
+      }
+    ]
+  },
+  {
+    "suit_id": 310,
+    "name": "斗笠盾牌皓天套",
+    "suits": [
+      {
+        "suit_count": 2,
+        "attrs": [
+          {
+            "key": 49,
+            "value": 1000
+          },
+          {
+            "key": 29,
+            "value": 1000
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "攻魔道%：+9%|n        HP%：+10%"
+      }
+    ]
+  },
+  {
+    "suit_id": 331,
+    "name": "宝珠沃玛套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 3
+          },
+          {
+            "key": 14,
+            "value": 0
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+3"
+      }
+    ]
+  },
+  {
+    "suit_id": 332,
+    "name": "宝珠祖玛套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 6
+          },
+          {
+            "key": 14,
+            "value": 0
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+6"
+      }
+    ]
+  },
+  {
+    "suit_id": 333,
+    "name": "宝珠苍月套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 10
+          },
+          {
+            "key": 14,
+            "value": 100
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+10|n        暴击率：+1%"
+      }
+    ]
+  },
+  {
+    "suit_id": 334,
+    "name": "宝珠赤月套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 16
+          },
+          {
+            "key": 14,
+            "value": 200
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+16|n        暴击率：+2%"
+      }
+    ]
+  },
+  {
+    "suit_id": 335,
+    "name": "宝珠雷霆套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 24
+          },
+          {
+            "key": 14,
+            "value": 300
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+24|n        暴击率：+3%"
+      }
+    ]
+  },
+  {
+    "suit_id": 336,
+    "name": "宝珠战神套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 35
+          },
+          {
+            "key": 14,
+            "value": 400
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+35|n        暴击率：+4%"
+      }
+    ]
+  },
+  {
+    "suit_id": 337,
+    "name": "宝珠星王套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 48
+          },
+          {
+            "key": 14,
+            "value": 600
+          },
+          {
+            "key": 27,
+            "value": 1200
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+48|n        暴击率：+6% |n        魔防%：+12%"
+      }
+    ]
+  },
+  {
+    "suit_id": 338,
+    "name": "宝珠天龙套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 62
+          },
+          {
+            "key": 14,
+            "value": 800
+          },
+          {
+            "key": 27,
+            "value": 1600
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+62|n        暴击率：+8%|n        魔防%：+16%"
+      }
+    ]
+  },
+  {
+    "suit_id": 339,
+    "name": "宝珠王者套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 78
+          },
+          {
+            "key": 14,
+            "value": 1000
+          },
+          {
+            "key": 27,
+            "value": 2000
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+78|n        暴击率：+10%|n        魔防%：+20%"
+      }
+    ]
+  },
+  {
+    "suit_id": 340,
+    "name": "宝珠皓天套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 60,
+            "value": 95
+          },
+          {
+            "key": 14,
+            "value": 1200
+          },
+          {
+            "key": 27,
+            "value": 2500
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "boss增伤：+95|n        暴击率：+12%|n        魔防%：+25%"
+      }
+    ]
+  },
+  {
+    "suit_id": 361,
+    "name": "军鼓沃玛套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 200
+          },
+          {
+            "key": 12,
+            "value": 0
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+2%"
+      }
+    ]
+  },
+  {
+    "suit_id": 362,
+    "name": "军鼓祖玛套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 300
+          },
+          {
+            "key": 12,
+            "value": 0
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+3%"
+      }
+    ]
+  },
+  {
+    "suit_id": 363,
+    "name": "军鼓苍月套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 400
+          },
+          {
+            "key": 12,
+            "value": 1
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+4%|n        命中：+1"
+      }
+    ]
+  },
+  {
+    "suit_id": 364,
+    "name": "军鼓赤月套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 500
+          },
+          {
+            "key": 12,
+            "value": 2
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+5%|n        命中：+2"
+      }
+    ]
+  },
+  {
+    "suit_id": 365,
+    "name": "军鼓雷霆套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 700
+          },
+          {
+            "key": 12,
+            "value": 3
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+7%|n        命中：+3"
+      }
+    ]
+  },
+  {
+    "suit_id": 366,
+    "name": "军鼓战神套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 900
+          },
+          {
+            "key": 12,
+            "value": 4
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+9%|n        命中：+4"
+      }
+    ]
+  },
+  {
+    "suit_id": 367,
+    "name": "军鼓星王套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 1200
+          },
+          {
+            "key": 12,
+            "value": 6
+          },
+          {
+            "key": 38,
+            "value": 12
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+12%|n        命中：+5    |n        受击回血12"
+      }
+    ]
+  },
+  {
+    "suit_id": 368,
+    "name": "军鼓天龙套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 1600
+          },
+          {
+            "key": 12,
+            "value": 8
+          },
+          {
+            "key": 38,
+            "value": 16
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+16%|n        命中：+6    |n        受击回血16"
+      }
+    ]
+  },
+  {
+    "suit_id": 369,
+    "name": "军鼓王者套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 2000
+          },
+          {
+            "key": 12,
+            "value": 10
+          },
+          {
+            "key": 38,
+            "value": 18
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+20%|n        命中：+7    |n        受击回血18"
+      }
+    ]
+  },
+  {
+    "suit_id": 370,
+    "name": "军鼓皓天套",
+    "suits": [
+      {
+        "suit_count": 3,
+        "attrs": [
+          {
+            "key": 25,
+            "value": 2500
+          },
+          {
+            "key": 12,
+            "value": 12
+          },
+          {
+            "key": 38,
+            "value": 20
+          }
+        ],
+        "skill_id": 0,
+        "suit_tips": "物防%：+25%|n        命中：+8     |n        受击回血20"
+      }
+    ]
+  }
+]

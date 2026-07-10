@@ -1,0 +1,710 @@
+[
+  {
+    "config_id": 1,
+    "name": 1,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 2,
+    "name": 2,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 3,
+    "name": 3,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "攻击",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 4,
+    "name": 4,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "攻击",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 5,
+    "name": 5,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "法力",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 6,
+    "name": 6,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "法力",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 7,
+    "name": 7,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "物防",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 8,
+    "name": 8,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "物防",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 9,
+    "name": 9,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "魔防",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 10,
+    "name": 10,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "魔防",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 11,
+    "name": 11,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "每次伤害时额外取上限值的几率",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 12,
+    "name": 12,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 13,
+    "name": 13,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 14,
+    "name": 14,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "暴击率",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 15,
+    "name": 15,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "爆伤加成",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 16,
+    "name": 16,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "免暴击率",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 17,
+    "name": 17,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "爆伤增加",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 18,
+    "name": 18,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "攻速",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 19,
+    "name": 19,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "施法速度",
+    "desc": "",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 20,
+    "name": 20,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 3,
+        "op": 2
+      }
+    ],
+    "tab": "攻击下限增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 21,
+    "name": 21,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 4,
+        "op": 2
+      }
+    ],
+    "tab": "攻击上限增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 22,
+    "name": 22,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 5,
+        "op": 2
+      }
+    ],
+    "tab": "法力下限增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 23,
+    "name": 23,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 6,
+        "op": 2
+      }
+    ],
+    "tab": "法力上限增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 24,
+    "name": 24,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 7,
+        "op": 2
+      }
+    ],
+    "tab": "物防下限增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 25,
+    "name": 25,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 8,
+        "op": 2
+      }
+    ],
+    "tab": "物防上限增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 26,
+    "name": 26,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 9,
+        "op": 2
+      }
+    ],
+    "tab": "魔防下限增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 27,
+    "name": 27,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 10,
+        "op": 2
+      }
+    ],
+    "tab": "魔防上限增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 28,
+    "name": 28,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "经验值增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 29,
+    "name": 29,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 1,
+        "op": 2
+      }
+    ],
+    "tab": "生命值增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 30,
+    "name": 30,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 2,
+        "op": 2
+      }
+    ],
+    "tab": "灵力值增幅",
+    "desc": "百分比增幅",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 31,
+    "name": 31,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "伤害提升",
+    "desc": "伤害提升多少",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 32,
+    "name": 32,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "伤害减免",
+    "desc": "被攻击时伤害减免多少",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 33,
+    "name": 33,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "伤害提升增幅",
+    "desc": "伤害提升多少%",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 34,
+    "name": 34,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "伤害减免增幅",
+    "desc": "被攻击时伤害减免多少%",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 35,
+    "name": 35,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "每秒回血",
+    "desc": "每秒回血x值",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 36,
+    "name": 36,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "每秒回蓝",
+    "desc": "每秒回灵x值",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 37,
+    "name": 37,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "击中时回血x值",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 38,
+    "name": 38,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "被击中时回血x值",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 39,
+    "name": 39,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "击中时回灵x值",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 40,
+    "name": 40,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "被击中时回灵x值",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 41,
+    "name": 41,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 42,
+    "name": 42,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "法术伤害增加x%",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 43,
+    "name": 43,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 44,
+    "name": 44,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "提升法术造成的伤害",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 45,
+    "name": 45,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 46,
+    "name": 46,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 47,
+    "name": 47,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 4,
+        "op": 1
+      },
+      {
+        "key": 6,
+        "op": 1
+      }
+    ],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 48,
+    "name": 48,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 3,
+        "op": 1
+      },
+      {
+        "key": 5,
+        "op": 1
+      }
+    ],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 49,
+    "name": 49,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 47,
+        "op": 2
+      }
+    ],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 50,
+    "name": 50,
+    "role": 2,
+    "parent_attr_modifier": [
+      {
+        "key": 48,
+        "op": 2
+      }
+    ],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 51,
+    "name": 51,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "攻击间隔",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 52,
+    "name": 52,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "无视守方的防御",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 53,
+    "name": 53,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "无视守方防御的百分比",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 54,
+    "name": 54,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "无视守方的魔防",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 55,
+    "name": 55,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "无视守方魔防的百分比",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 56,
+    "name": 56,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 57,
+    "name": 57,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 58,
+    "name": 58,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "",
+    "is_show": false,
+    "is_show_tip": false
+  },
+  {
+    "config_id": 59,
+    "name": 59,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "",
+    "desc": "每次额外取物防，法防上限值的几率",
+    "is_show": true,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 60,
+    "name": 60,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "对boss增伤%",
+    "desc": "针对boss的属性",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 61,
+    "name": 61,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "对boss伤害减免%",
+    "desc": "针对boss的属性",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 62,
+    "name": 62,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "boss固定伤害",
+    "desc": "针对boss的属性",
+    "is_show": false,
+    "is_show_tip": true
+  },
+  {
+    "config_id": 63,
+    "name": 63,
+    "role": 1,
+    "parent_attr_modifier": [],
+    "tab": "boss伤害减免",
+    "desc": "针对boss的属性",
+    "is_show": false,
+    "is_show_tip": true
+  }
+]

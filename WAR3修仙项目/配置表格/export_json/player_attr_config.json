@@ -1,0 +1,1957 @@
+[
+  {
+    "level": 1,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 0,
+    "skill": 10010001
+  },
+  {
+    "level": 2,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 50,
+    "skill": 0
+  },
+  {
+    "level": 3,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 67.02778,
+    "skill": 0
+  },
+  {
+    "level": 4,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 84.05556,
+    "skill": 0
+  },
+  {
+    "level": 5,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 1
+      }
+    ],
+    "exp_level_up": 101.083336,
+    "skill": 0
+  },
+  {
+    "level": 6,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 118.111115,
+    "skill": 0
+  },
+  {
+    "level": 7,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 135.13889,
+    "skill": 0
+  },
+  {
+    "level": 8,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 152.16667,
+    "skill": 0
+  },
+  {
+    "level": 9,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 169.19444,
+    "skill": 0
+  },
+  {
+    "level": 10,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 6
+      },
+      {
+        "key": 2,
+        "value": 4
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 1
+      }
+    ],
+    "exp_level_up": 186.22223,
+    "skill": 0
+  },
+  {
+    "level": 11,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 1000,
+    "skill": 0
+  },
+  {
+    "level": 12,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 1375,
+    "skill": 0
+  },
+  {
+    "level": 13,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 1750,
+    "skill": 0
+  },
+  {
+    "level": 14,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 2125,
+    "skill": 0
+  },
+  {
+    "level": 15,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 2500,
+    "skill": 0
+  },
+  {
+    "level": 16,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 2875,
+    "skill": 0
+  },
+  {
+    "level": 17,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 3250,
+    "skill": 0
+  },
+  {
+    "level": 18,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 3625,
+    "skill": 0
+  },
+  {
+    "level": 19,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 4000,
+    "skill": 0
+  },
+  {
+    "level": 20,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 8
+      },
+      {
+        "key": 2,
+        "value": 5
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 2
+      }
+    ],
+    "exp_level_up": 4375,
+    "skill": 0
+  },
+  {
+    "level": 21,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 4750,
+    "skill": 0
+  },
+  {
+    "level": 22,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 5125,
+    "skill": 0
+  },
+  {
+    "level": 23,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 5500,
+    "skill": 0
+  },
+  {
+    "level": 24,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 5875,
+    "skill": 0
+  },
+  {
+    "level": 25,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 2
+      }
+    ],
+    "exp_level_up": 6250,
+    "skill": 0
+  },
+  {
+    "level": 26,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 6625,
+    "skill": 0
+  },
+  {
+    "level": 27,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7000,
+    "skill": 0
+  },
+  {
+    "level": 28,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7375,
+    "skill": 0
+  },
+  {
+    "level": 29,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7750,
+    "skill": 0
+  },
+  {
+    "level": 30,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 10
+      },
+      {
+        "key": 2,
+        "value": 7
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 2
+      }
+    ],
+    "exp_level_up": 8125,
+    "skill": 0
+  },
+  {
+    "level": 31,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 8500,
+    "skill": 0
+  },
+  {
+    "level": 32,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 8875,
+    "skill": 0
+  },
+  {
+    "level": 33,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 9250,
+    "skill": 0
+  },
+  {
+    "level": 34,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 9625,
+    "skill": 0
+  },
+  {
+    "level": 35,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 2
+      }
+    ],
+    "exp_level_up": 10000,
+    "skill": 0
+  },
+  {
+    "level": 36,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 30000,
+    "skill": 0
+  },
+  {
+    "level": 37,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 40000,
+    "skill": 0
+  },
+  {
+    "level": 38,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 45000,
+    "skill": 0
+  },
+  {
+    "level": 39,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 54500,
+    "skill": 0
+  },
+  {
+    "level": 40,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 16
+      },
+      {
+        "key": 2,
+        "value": 11
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 3
+      }
+    ],
+    "exp_level_up": 56000,
+    "skill": 0
+  },
+  {
+    "level": 41,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 57500,
+    "skill": 0
+  },
+  {
+    "level": 42,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 59000,
+    "skill": 0
+  },
+  {
+    "level": 43,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 60500,
+    "skill": 0
+  },
+  {
+    "level": 44,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 62000,
+    "skill": 0
+  },
+  {
+    "level": 45,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 3
+      }
+    ],
+    "exp_level_up": 63500,
+    "skill": 0
+  },
+  {
+    "level": 46,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 200000,
+    "skill": 0
+  },
+  {
+    "level": 47,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 350000,
+    "skill": 0
+  },
+  {
+    "level": 48,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 500000,
+    "skill": 0
+  },
+  {
+    "level": 49,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 650000,
+    "skill": 0
+  },
+  {
+    "level": 50,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 24
+      },
+      {
+        "key": 2,
+        "value": 16
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 3
+      }
+    ],
+    "exp_level_up": 800000,
+    "skill": 0
+  },
+  {
+    "level": 51,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 1200000,
+    "skill": 0
+  },
+  {
+    "level": 52,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 1500000,
+    "skill": 0
+  },
+  {
+    "level": 53,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 1800000,
+    "skill": 0
+  },
+  {
+    "level": 54,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 2100000,
+    "skill": 0
+  },
+  {
+    "level": 55,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 2400000,
+    "skill": 0
+  },
+  {
+    "level": 56,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 4000000,
+    "skill": 0
+  },
+  {
+    "level": 57,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 4800000,
+    "skill": 0
+  },
+  {
+    "level": 58,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 5600000,
+    "skill": 0
+  },
+  {
+    "level": 59,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 6400000,
+    "skill": 0
+  },
+  {
+    "level": 60,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 40
+      },
+      {
+        "key": 2,
+        "value": 27
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 61,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 62,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 63,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 64,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 65,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 66,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 67,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 68,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 69,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 70,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 60
+      },
+      {
+        "key": 2,
+        "value": 40
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 71,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 72,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 73,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 74,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 75,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 76,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 77,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 78,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 79,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 80,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 81,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 82,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 83,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 84,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  },
+  {
+    "level": 85,
+    "attrs": [
+      {
+        "key": 1,
+        "value": 80
+      },
+      {
+        "key": 2,
+        "value": 53
+      },
+      {
+        "key": 3,
+        "value": 0
+      },
+      {
+        "key": 4,
+        "value": 0
+      }
+    ],
+    "exp_level_up": 7200000,
+    "skill": 0
+  }
+]
