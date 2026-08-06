@@ -1,0 +1,106 @@
+# P06 怪物AI规则
+
+> 版本：v2.0｜2026-08-05｜V0怪物状态机
+> 定位：定义V0通用追击AI。来源类型不写死行为，具体差异由参数配置。
+
+## 一、持久状态
+
+V0使用五个持久状态：
+
+```text
+IDLE → CHASE → ATTACK
+  ↑       ↓        ↓
+  └──── RETURN ←───┘
+任意非死亡状态 → DEAD
+```
+
+索敌是 IDLE 中的周期逻辑，不单独占状态。放弃追击后直接进入 RETURN，不建立含义混乱的 FLEE 状态。
+
+## 二、转换规则
+
+| 当前状态 | 条件 | 目标状态 |
+|---|---|---|
+| 任意非DEAD | `hp <= 0` | DEAD |
+| IDLE | 找到最近有效敌对目标 | CHASE |
+| CHASE | 目标进入攻击距离 | ATTACK |
+| CHASE | 目标失效 | RETURN；若已在出生点则IDLE |
+| CHASE | 超出出生/刷新边界达到配置时长 | RETURN |
+| ATTACK | 目标离开攻击距离但仍在脱战边界内 | CHASE |
+| ATTACK | 目标失效 | RETURN；若已在出生点则IDLE |
+| RETURN | 到达出生点 | IDLE |
+| RETURN | 受到有效攻击 | CHASE并锁定攻击者 |
+
+## 三、边界基准
+
+- 索敌距离相对怪物当前位置计算。
+- 脱战距离相对本次出生点或所属刷新区域计算，不相对目标计算。
+- 目标越过边界后，怪物不会因继续靠近目标而延长追击。
+- 返回状态沿用出生点和刷新区域，避免被无限风筝。
+
+## 四、状态行为
+
+### IDLE
+
+- 原地待机。
+- 按 `search_interval` 周期搜索范围内最近的有效敌对单位。
+- 无目标时不每帧全图扫描。
+
+### CHASE
+
+- 追向当前目标。
+- 每次更新先校验目标、攻击距离和脱战边界。
+- 不在V0建立仇恨表；RETURN受击是唯一显式换目标入口。
+
+### ATTACK
+
+- 停止移动并调用统一战斗事件。
+- 攻击间隔结束后重新校验目标与距离。
+- 目标死亡时立即停止后续攻击事件。
+
+### RETURN
+
+- 清除原目标并返回出生点。
+- 到达后恢复由参数决定的生命比例；V0可配置为回满。
+- 受到有效伤害时设置攻击者为目标并直接进入CHASE，不经过IDLE。
+
+### DEAD
+
+- 停止全部AI计时器和移动。
+- 死亡、掉落与销毁事件只触发一次。
+
+## 五、参数
+
+| 参数 | 说明 |
+|---|---|
+| `search_interval` | 索敌周期 |
+| `aggro_range` | 索敌范围 |
+| `attack_range` | 攻击范围 |
+| `leash_range` | 出生点脱战距离；使用区域边界时可为空 |
+| `leash_timeout` | 超界持续多久后返回 |
+| `return_speed_multiplier` | 返回速度倍率 |
+| `return_arrival_radius` | 到达出生点容差 |
+| `return_heal_ratio` | 返回完成恢复比例 |
+
+所有参数从配置读取。魔化生物不得被全类写成“不恐惧、不休息、必死战”等固定行为。
+
+## 六、受击事件
+
+```cpp
+void OnMonsterDamaged(MonsterAI* ai, UnitId attacker) {
+    if (!ai || ai->state == DEAD) return;
+    if (ai->state == RETURN && IsAttackable(ai->unit_id, attacker)) {
+        ai->target_id = attacker;
+        ai->state = CHASE;
+        ai->leash_timer = 0;
+    }
+}
+```
+
+## 七、性能与幂等
+
+- 距离比较使用平方距离。
+- 状态切换清理旧移动命令、目标和计时器。
+- 死亡检测优先于其他状态逻辑。
+- 同一死亡事件ID不得重复掉落或重复减少刷新存活数。
+
+> 修订：v2.0 修复RETURN受击转IDLE错误，统一五态机和出生/区域脱战边界。
