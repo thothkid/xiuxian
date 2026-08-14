@@ -1,0 +1,15 @@
+# 密钥与运行态，禁止入库
+_工具/ragflow-sync/.env
+_工具/ragflow-sync/sync_state.json
+_工具/ragflow-sync/logs/
+_工具/ragflow-sync/__pycache__/
+_工具/知识库脚本/logs/
+_工具/知识库脚本/__pycache__/
+
+# 待删暂存区与备份
+_to_delete/
+*.bak_*
+
+# Office 临时锁文件与 macOS 资源分支
+~$*
+._*
