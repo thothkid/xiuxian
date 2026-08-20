@@ -13,3 +13,16 @@ _to_delete/
 # Office 临时锁文件与 macOS 资源分支
 ~$*
 ._*
+
+# 撤出仓库但保留本地（不上 GitHub，git add -A 也不会加回来）
+# 龙马项目文档：2026-08-14 thoth 拍板，过程文档不上 GitHub，重要内容经 策划案\ 上库（提交 44ac9b4）
+# xlsx：thoth 表格工作暂存区，由 thoth 手动清理
+龙马项目文档/
+xlsx/
+
+# 配置表快照排除物与废弃工具归档
+配置表格/export_json/
+配置表格/备份/
+配置表格/_回灌前备份_*/
+配置表格/_dump.txt
+_工具/_archive_*/
