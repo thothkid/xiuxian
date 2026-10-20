@@ -29,7 +29,7 @@ class RagflowClient:
         """
         result = {}
         page = 1
-        page_size = 200  # 增大页大小，减少请求次数
+        page_size = 100  # RAGFlow 上限 100，超过报 ValueError（2026-08-21 实测）
 
         while True:
             url = self._url(f'/api/v1/datasets/{self.dataset_id}/documents')
