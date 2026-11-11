@@ -31,8 +31,8 @@
 
 | 首位 | 指向 | 表 |
 |:--:|---|---|
-| 8 | 词条 | `Z装备 / ConfigCitiao` |
+| 8 | 词条 | `C词条表 / affix_config` |
 
-装备形态的奇珍由 `unlock_id` 指向 `equip_config.id`。`equip_config` 现有的 `illustrated_id` 列（现存每行实配 `99`）保持原样，奇珍录不使用该列。
+装备形态的奇珍由「收录」页`unlock_ids`中的有效装备ID关联`equip_config.id`，任一合法钥匙获得即点亮；不用旧单值`unlock_id`替代数组。`equip_config` 现有的 `illustrated_id` 列（现存每行实配 `99`）保持原样，奇珍录不使用该列。
 
-装备词条表 `ConfigCitiao` 的主键 `hidden_affix` 现为 1—96 的整数，迁移到 8 开头的 8 位段。
+词条按`C词条表.xlsx / affix_config`的完整`id`引用，不再沿用旧装备词条表及其迁移清单。词条无等级，不能将ID末两位解释为等级；技能与BUFF的等级编号按《神通系统策划案》分别解释。
